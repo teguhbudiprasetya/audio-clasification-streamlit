@@ -13,3 +13,4 @@ To run the app, use the following command:
 ```bash
 streamlit run home.py
 ```
+This is the code for preprocessing and modeling, all of which is saved in Google Colab: [Google Colab Link](https://colab.research.google.com/drive/1XJS_HR2tNaV9Vz3yKqDTCHo8-OEsqgJ6?usp=sharing)
